@@ -1,3 +1,16 @@
+# Leaving out image files in class work
+class-work/*/*.jpg
+class-work/*/*.png
+
+class-work/*/*/*.jpg
+class-work/*/*/*.png
+
+class-work/*/*/*/*.jpg
+class-work/*/*/*/*.png
+
+class-work/6_19april/yolov3.weights
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

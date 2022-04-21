@@ -1,0 +1,7 @@
+sort -R ig-hack.txt | head -n 5 > hack_instructions_2.txt
+
+Check your email account for a message from Instagram
+Request a security code or support from Instagram
+Verify your identity
+If you're unable to recover your account with the login link we sent to you, you may be able to request support from us.
+Learn more about what you can do if you don't know your username.

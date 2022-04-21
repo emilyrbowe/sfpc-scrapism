@@ -1,0 +1,32 @@
+I think my Instagram account has been hacked.
+If you think your account has been hacked or taken over, there are several actions you may be able to take to secure your account. Some of these recovery steps may not be available to you depending on the type of account you're trying to recover, but we recommend trying them all.
+Check your email account for a message from Instagram
+If you received an email from security@mail.instagram.com letting you know that your email address was changed, you may be able to undo this change by selecting revert this change in that message. If additional information was also changed (example: your password), and you're unable to change back your email address, request a login link or security code from Instagram
+Request a login link from Instagram
+To help us confirm that you own the account, you can request that we send a login link to your email address or phone number.
+To request a login link:
+On the login screen, tap Get help logging in. (Android) or Forgot password? (iPhone).
+Enter the username, email address, or phone number associated with your account, then tap Next. Note: If you don’t know the username, email address, or phone number associated with your account, tap Need more help? below the Next button and follow the on-screen instructions.
+Select either your email address or phone number, then tap Send login link.
+Click the login link in your email or a text message (SMS) and follow the on-screen instructions.
+Request a security code or support from Instagram
+If you're unable to recover your account with the login link we sent to you, you may be able to request support from us.
+To request support from Instagram:
+Be sure to enter a secure email address that only you can access. Once you've submitted your request, you should receive an email from Instagram with next steps.
+Learn more about what you can do if you don't know your username.
+Verify your identity
+If you submitted a support request for an account without photos of you, you should receive an auto-response email from the Support Team at Meta. We’ll ask you to help us verify your identity by providing the email address or phone number you signed up with and the type of device you used at the time of sign up (example: iPhone, Android, iPad, other).
+If you request support for an account with photos of you, you'll be asked to take a video selfie of you turning your head in different directions to help us check that you’re a real person and confirm your identity.
+Once you submit the video selfie to help us verify your identity, you’ll receive an email from Instagram at the secure email address you provided. We use this video to ensure you are a real person and that you are who you say you are.
+Keep in mind that the video you submit will never be visible on Instagram and will be deleted within 30 days.
+If we weren’t able to confirm your identity from the video you submitted, you can submit a new video and we’ll review it again.
+Note: Instagram doesn’t use facial recognition, and we don't use it in video selfies. We use video selfies to ensure you are a real person and may confirm with human review that you are authorized to access your account.
+
+If you're still able to log into your Instagram account
+If you think your account has been hacked or an attempt to hack your account has been made and you're still able to log in, there are things you can do to help keep your account secure:
+Change your password or send yourself a password reset email.
+Turn on two-factor authentication for additional security.
+Confirm your phone number and email address in account settings are correct.
+Check Accounts Center and remove any linked accounts you don’t recognize.
+Revoke access to any suspicious third-party apps.
+If you're still having trouble accessing your account, we'd like to hear more about your experience so we can continue to improve our support options.

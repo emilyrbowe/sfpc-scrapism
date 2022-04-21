@@ -1,0 +1,7 @@
+sort -R ig-hack.txt | head -n 5 > hack_instructions_3.txt
+
+Change your password or send yourself a password reset email.
+Select either your email address or phone number, then tap Send login link.
+Keep in mind that the video you submit will never be visible on Instagram and will be deleted within 30 days.
+I think my Instagram account has been hacked.
+Turn on two-factor authentication for additional security.

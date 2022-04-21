@@ -1,0 +1,3945 @@
+# WHOSE HANDS DRAW THE MAP?
+ 
+
+
+
+
+
+
+ 
+### The Last
+
+# 7
+
+### Days of Edits to
+
+### Open Street Map
+
+### in
+
+# Boston
+
+
+
+#### A Scrape-book by Emily Bowe \pagebreak
+## Alexey Lukin
+
+
+
+
+--------------
+
+## arc34
+
+
+
+
+
+--------------
+
+## aweech
+
+
+Currently mapping as much as I possibly can in central New Hampshire, places I visit, and keeping track of places I have lived before (northern Utah).
+
+
+--------------
+
+## danielkononovWORKNEST
+
+
+
+
+
+--------------
+
+## Delvin4519
+
+
+
+
+
+--------------
+
+## florisje
+
+
+Mapping in and around Haarlem and Amsterdam most of the time.
+Was on the State of the Map Organizing teams for 2009, 2010, 2011 and 2012.
+Also import BAG in The Netherlands as user florisje_BAG
+See http://wiki.openstreetmap.org/wiki/BAGimport
+
+
+--------------
+
+## fossboy
+
+
+
+
+
+--------------
+
+## JesseFTW
+
+
+
+
+
+--------------
+
+## keckln
+
+
+
+
+
+--------------
+
+## kmarkish_lyft
+
+
+Data Curator for Lyft Mapping team.
+Lyft’s OSMwiki page
+Lyft’s Organized Editing Documentation
+For more information please contact the team at dct-osm(at)lyft.com.
+
+
+--------------
+
+## LinusA
+
+
+
+
+
+--------------
+
+## mbanic617
+
+
+
+
+
+--------------
+
+## MelancholicSlav
+
+
+
+
+
+--------------
+
+## MLe92
+
+
+
+
+
+--------------
+
+## morganwahl
+
+
+
+
+--------------
+
+## NewBostonian
+
+
+
+
+
+--------------
+
+## ntisdell
+
+
+
+
+
+--------------
+
+## pvt
+
+
+
+
+--------------
+
+## RamblingRubbisher
+
+
+Hi! I’m the Rambling Rubbisher, a boring and off-putting web persona that writes reviews about publicly accessible garbage receptacles. I figured that if I’m out in the world collecting data on garbage bins, I might as well stick that data in the Open Street Map. Makes sense. I know I have mapped at least 300 bins, so if anybody knows how I can extract my data from OSM, please drop me a line.
+Follow me (now with options):
+
+Here. https://www.patreon.com/ramblingrubbisher - for the first 500 posts and new unsanitized posts.
+There. https://mastodon.online/@ramblingrubbisher - new unsanitized posts posted in software freedom.
+Every where. https://twitter.com/ramblinrubbishr  - links to patreon because this is where everybody is these days.
+No fair. https://www.reddit.com/user/ramblingrubbisher - sanitized posts, fun for the whole family as soon as I get unshadowbanned.
+Care bear stare. https://www.pinterest.com/ramblingrubbisher/ - santizied posts because I don’t know what pinterest is or how people use it.
+
+
+
+--------------
+
+## someart13
+
+
+Hi! I work on improving OpenStreetMap data by fixing errors and adding data for Mapbox. Please feel free to put any questions! Also you can read more about our team.
+
+
+--------------
+
+## user_5359
+
+
+http://www.familieverweyen.de
+
+--------------
+
+## VLD182
+
+
+Hi, I’m Reed, working on improving OSM at Facebook. Feel free to reach out to me with questions or e-mail the team osm@fb.com. Curious about our process? Find it here
+
+
+--------------
+
+## VLD191
+
+
+Hi, I’m Sam, working on improving OSM at Facebook. Feel free to reach out to me with questions or e-mail the team osm@fb.com. Curious about our process? Find it here
+
+
+--------------
+
+## wambag
+
+
+
+
+--------------
+
+## Yury Yatsynovich
+
+
+
+
+--------------
+
+## Zing929645
+
+
+
+
+
+--------------
+
+\pagebreak
+2022-04-12 16:19:08
+
+ntisdell: 
+
+updates to crossings to allow bike for access to main road parralell at crossings from separated bike path.
+
+--------------
+
+2022-04-12 16:19:08
+
+ntisdell: 
+
+updates to crossings to allow bike for access to main road parralell at crossings from separated bike path.
+
+--------------
+
+2022-04-12 16:19:08
+
+ntisdell: 
+
+updates to crossings to allow bike for access to main road parralell at crossings from separated bike path.
+
+--------------
+
+2022-04-12 16:19:08
+
+ntisdell: 
+
+updates to crossings to allow bike for access to main road parralell at crossings from separated bike path.
+
+--------------
+
+2022-04-12 16:19:08
+
+ntisdell: 
+
+updates to crossings to allow bike for access to main road parralell at crossings from separated bike path.
+
+--------------
+
+2022-04-12 16:19:08
+
+ntisdell: 
+
+updates to crossings to allow bike for access to main road parralell at crossings from separated bike path.
+
+--------------
+
+2022-04-12 16:19:08
+
+ntisdell: 
+
+updates to crossings to allow bike for access to main road parralell at crossings from separated bike path.
+
+--------------
+
+2022-04-12 15:55:22
+
+ntisdell: 
+
+add sidewalks and update crossings for access.  update paths with new imagery.
+
+--------------
+
+2022-04-12 15:55:22
+
+ntisdell: 
+
+add sidewalks and update crossings for access.  update paths with new imagery.
+
+--------------
+
+2022-04-12 15:55:22
+
+ntisdell: 
+
+add sidewalks and update crossings for access.  update paths with new imagery.
+
+--------------
+
+2022-04-12 15:55:22
+
+ntisdell: 
+
+add sidewalks and update crossings for access.  update paths with new imagery.
+
+--------------
+
+2022-04-12 15:55:22
+
+ntisdell: 
+
+add sidewalks and update crossings for access.  update paths with new imagery.
+
+--------------
+
+2022-04-12 15:55:22
+
+ntisdell: 
+
+add sidewalks and update crossings for access.  update paths with new imagery.
+
+--------------
+
+2022-04-12 15:55:22
+
+ntisdell: 
+
+add sidewalks and update crossings for access.  update paths with new imagery.
+
+--------------
+
+2022-04-12 15:55:22
+
+ntisdell: 
+
+add sidewalks and update crossings for access.  update paths with new imagery.
+
+--------------
+
+2022-04-12 15:55:22
+
+ntisdell: 
+
+add sidewalks and update crossings for access.  update paths with new imagery.
+
+--------------
+
+2022-04-12 15:55:22
+
+ntisdell: 
+
+add sidewalks and update crossings for access.  update paths with new imagery.
+
+--------------
+
+2022-04-12 15:55:22
+
+ntisdell: 
+
+add sidewalks and update crossings for access.  update paths with new imagery.
+
+--------------
+
+2022-04-12 15:55:22
+
+ntisdell: 
+
+add sidewalks and update crossings for access.  update paths with new imagery.
+
+--------------
+
+2022-04-12 15:55:22
+
+ntisdell: 
+
+add sidewalks and update crossings for access.  update paths with new imagery.
+
+--------------
+
+2022-04-12 15:55:22
+
+ntisdell: 
+
+add sidewalks and update crossings for access.  update paths with new imagery.
+
+--------------
+
+2022-04-12 15:55:22
+
+ntisdell: 
+
+add sidewalks and update crossings for access.  update paths with new imagery.
+
+--------------
+
+2022-04-12 15:55:22
+
+ntisdell: 
+
+add sidewalks and update crossings for access.  update paths with new imagery.
+
+--------------
+
+2022-04-12 15:55:22
+
+ntisdell: 
+
+add sidewalks and update crossings for access.  update paths with new imagery.
+
+--------------
+
+2022-04-12 15:55:22
+
+ntisdell: 
+
+add sidewalks and update crossings for access.  update paths with new imagery.
+
+--------------
+
+2022-04-12 15:32:42
+
+ntisdell: 
+
+update to add paths for navigation and clarity in park areas.  updated crossings to make for ease of bike access.
+
+--------------
+
+2022-04-12 15:32:42
+
+ntisdell: 
+
+update to add paths for navigation and clarity in park areas.  updated crossings to make for ease of bike access.
+
+--------------
+
+2022-04-12 15:32:42
+
+ntisdell: 
+
+update to add paths for navigation and clarity in park areas.  updated crossings to make for ease of bike access.
+
+--------------
+
+2022-04-12 15:32:42
+
+ntisdell: 
+
+update to add paths for navigation and clarity in park areas.  updated crossings to make for ease of bike access.
+
+--------------
+
+2022-04-12 15:32:42
+
+ntisdell: 
+
+update to add paths for navigation and clarity in park areas.  updated crossings to make for ease of bike access.
+
+--------------
+
+2022-04-12 15:32:42
+
+ntisdell: 
+
+update to add paths for navigation and clarity in park areas.  updated crossings to make for ease of bike access.
+
+--------------
+
+2022-04-12 15:32:42
+
+ntisdell: 
+
+update to add paths for navigation and clarity in park areas.  updated crossings to make for ease of bike access.
+
+--------------
+
+2022-04-12 15:32:42
+
+ntisdell: 
+
+update to add paths for navigation and clarity in park areas.  updated crossings to make for ease of bike access.
+
+--------------
+
+2022-04-12 15:32:42
+
+ntisdell: 
+
+update to add paths for navigation and clarity in park areas.  updated crossings to make for ease of bike access.
+
+--------------
+
+2022-04-12 15:32:42
+
+ntisdell: 
+
+update to add paths for navigation and clarity in park areas.  updated crossings to make for ease of bike access.
+
+--------------
+
+2022-04-12 15:32:42
+
+ntisdell: 
+
+update to add paths for navigation and clarity in park areas.  updated crossings to make for ease of bike access.
+
+--------------
+
+2022-04-12 15:32:42
+
+ntisdell: 
+
+update to add paths for navigation and clarity in park areas.  updated crossings to make for ease of bike access.
+
+--------------
+
+2022-04-12 15:32:42
+
+ntisdell: 
+
+update to add paths for navigation and clarity in park areas.  updated crossings to make for ease of bike access.
+
+--------------
+
+2022-04-12 15:32:42
+
+ntisdell: 
+
+update to add paths for navigation and clarity in park areas.  updated crossings to make for ease of bike access.
+
+--------------
+
+2022-04-12 15:32:42
+
+ntisdell: 
+
+update to add paths for navigation and clarity in park areas.  updated crossings to make for ease of bike access.
+
+--------------
+
+2022-04-12 15:32:42
+
+ntisdell: 
+
+update to add paths for navigation and clarity in park areas.  updated crossings to make for ease of bike access.
+
+--------------
+
+2022-04-12 14:42:55
+
+ntisdell: 
+
+park trail updates, the paths are multi use, no posting regarding cycle only (not a split trail with pedestrian path near).  Better to be listed as both for mapping software.
+
+--------------
+
+2022-04-12 14:42:55
+
+ntisdell: 
+
+park trail updates, the paths are multi use, no posting regarding cycle only (not a split trail with pedestrian path near).  Better to be listed as both for mapping software.
+
+--------------
+
+2022-04-12 14:42:55
+
+ntisdell: 
+
+park trail updates, the paths are multi use, no posting regarding cycle only (not a split trail with pedestrian path near).  Better to be listed as both for mapping software.
+
+--------------
+
+2022-04-12 14:42:55
+
+ntisdell: 
+
+park trail updates, the paths are multi use, no posting regarding cycle only (not a split trail with pedestrian path near).  Better to be listed as both for mapping software.
+
+--------------
+
+2022-04-12 14:42:55
+
+ntisdell: 
+
+park trail updates, the paths are multi use, no posting regarding cycle only (not a split trail with pedestrian path near).  Better to be listed as both for mapping software.
+
+--------------
+
+2022-04-12 14:42:55
+
+ntisdell: 
+
+park trail updates, the paths are multi use, no posting regarding cycle only (not a split trail with pedestrian path near).  Better to be listed as both for mapping software.
+
+--------------
+
+2022-04-12 14:42:55
+
+ntisdell: 
+
+park trail updates, the paths are multi use, no posting regarding cycle only (not a split trail with pedestrian path near).  Better to be listed as both for mapping software.
+
+--------------
+
+2022-04-12 14:42:55
+
+ntisdell: 
+
+park trail updates, the paths are multi use, no posting regarding cycle only (not a split trail with pedestrian path near).  Better to be listed as both for mapping software.
+
+--------------
+
+2022-04-12 14:42:55
+
+ntisdell: 
+
+park trail updates, the paths are multi use, no posting regarding cycle only (not a split trail with pedestrian path near).  Better to be listed as both for mapping software.
+
+--------------
+
+2022-04-12 14:42:55
+
+ntisdell: 
+
+park trail updates, the paths are multi use, no posting regarding cycle only (not a split trail with pedestrian path near).  Better to be listed as both for mapping software.
+
+--------------
+
+2022-04-12 14:42:55
+
+ntisdell: 
+
+park trail updates, the paths are multi use, no posting regarding cycle only (not a split trail with pedestrian path near).  Better to be listed as both for mapping software.
+
+--------------
+
+2022-04-12 12:01:32
+
+NewBostonian: 
+
+Add whether a bus stop has a bench
+
+--------------
+
+2022-04-12 12:01:31
+
+NewBostonian: 
+
+Add bus stop shelter
+
+--------------
+
+2022-04-12 12:01:30
+
+NewBostonian: 
+
+Add opening hours
+
+--------------
+
+2022-04-12 12:01:26
+
+NewBostonian: 
+
+Add whether there are cycleways
+
+--------------
+
+2022-04-12 12:01:24
+
+NewBostonian: 
+
+Determine place names
+
+--------------
+
+2022-04-12 06:36:00
+
+user_5359: 
+
+remove landus from address see building way
+
+--------------
+
+2022-04-12 04:46:44
+
+arc34: 
+
+Fix name of Hong Kong Supermarket
+
+--------------
+
+2022-04-12 04:46:44
+
+arc34: 
+
+Fix name of Hong Kong Supermarket
+
+--------------
+
+2022-04-12 03:37:54
+
+arc34: 
+
+None
+
+--------------
+
+2022-04-12 03:34:51
+
+arc34: 
+
+Buildings and sidewalks on Allston streets: Saint Lukes, Fordham, Chester, Reedsdale, Linden
+
+--------------
+
+2022-04-12 03:34:51
+
+arc34: 
+
+Buildings and sidewalks on Allston streets: Saint Lukes, Fordham, Chester, Reedsdale, Linden
+
+--------------
+
+2022-04-12 03:34:51
+
+arc34: 
+
+Buildings and sidewalks on Allston streets: Saint Lukes, Fordham, Chester, Reedsdale, Linden
+
+--------------
+
+2022-04-12 03:13:04
+
+Alexey Lukin: 
+
+Improved precision of Big Dig tunnels
+
+--------------
+
+2022-04-12 03:13:04
+
+Alexey Lukin: 
+
+Improved precision of Big Dig tunnels
+
+--------------
+
+2022-04-12 03:13:04
+
+Alexey Lukin: 
+
+Improved precision of Big Dig tunnels
+
+--------------
+
+2022-04-12 03:13:04
+
+Alexey Lukin: 
+
+Improved precision of Big Dig tunnels
+
+--------------
+
+2022-04-12 03:13:04
+
+Alexey Lukin: 
+
+Improved precision of Big Dig tunnels
+
+--------------
+
+2022-04-12 03:13:04
+
+Alexey Lukin: 
+
+Improved precision of Big Dig tunnels
+
+--------------
+
+2022-04-12 03:13:04
+
+Alexey Lukin: 
+
+Improved precision of Big Dig tunnels
+
+--------------
+
+2022-04-12 00:44:25
+
+Zing929645: 
+
+just some records of my surroundings
+
+--------------
+
+2022-04-12 00:44:25
+
+Zing929645: 
+
+just some records of my surroundings
+
+--------------
+
+2022-04-11 22:17:46
+
+aweech: 
+
+Adding surfaces and stop signs
+
+--------------
+
+2022-04-11 22:17:46
+
+aweech: 
+
+Adding surfaces and stop signs
+
+--------------
+
+2022-04-11 22:17:46
+
+aweech: 
+
+Adding surfaces and stop signs
+
+--------------
+
+2022-04-11 22:17:46
+
+aweech: 
+
+Adding surfaces and stop signs
+
+--------------
+
+2022-04-11 21:01:10
+
+RamblingRubbisher: 
+
+Added a garbage bin.
+
+--------------
+
+2022-04-11 20:42:27
+
+RamblingRubbisher: 
+
+Added a garbage bin.
+
+--------------
+
+2022-04-11 20:25:05
+
+RamblingRubbisher: 
+
+Added a garbage bin.
+
+--------------
+
+2022-04-11 20:08:32
+
+RamblingRubbisher: 
+
+Added a garbage bin.
+
+--------------
+
+2022-04-11 20:02:10
+
+RamblingRubbisher: 
+
+Added a garbage bin.
+
+--------------
+
+2022-04-11 19:43:10
+
+RamblingRubbisher: 
+
+Added a garbage bin.
+
+--------------
+
+2022-04-11 19:30:51
+
+RamblingRubbisher: 
+
+Added a garbage bin.
+
+--------------
+
+2022-04-11 19:16:48
+
+RamblingRubbisher: 
+
+updated description
+
+--------------
+
+2022-04-11 18:44:35
+
+RamblingRubbisher: 
+
+Added a garbage bin.
+
+--------------
+
+2022-04-11 14:53:09
+
+VLD182: 
+
+mapwithai-tm4-45 #mapwithai #OfficeMapping Updated connections, updated tags and removed a floating tagless node.
+
+--------------
+
+2022-04-11 14:53:09
+
+VLD182: 
+
+mapwithai-tm4-45 #mapwithai #OfficeMapping Updated connections, updated tags and removed a floating tagless node.
+
+--------------
+
+2022-04-11 12:27:06
+
+fossboy: 
+
+Straightened road
+
+--------------
+
+2022-04-11 12:27:06
+
+fossboy: 
+
+Straightened road
+
+--------------
+
+2022-04-11 02:33:56
+
+Alexey Lukin: 
+
+Added details to Big Dig
+
+--------------
+
+2022-04-11 02:33:56
+
+Alexey Lukin: 
+
+Added details to Big Dig
+
+--------------
+
+2022-04-11 00:49:06
+
+JesseFTW: 
+
+a few more details in the Commons
+
+--------------
+
+2022-04-11 00:49:06
+
+JesseFTW: 
+
+a few more details in the Commons
+
+--------------
+
+2022-04-11 00:49:06
+
+JesseFTW: 
+
+a few more details in the Commons
+
+--------------
+
+2022-04-11 00:47:51
+
+JesseFTW: 
+
+Add building types
+
+--------------
+
+2022-04-11 00:47:49
+
+JesseFTW: 
+
+Add building and roof levels
+
+--------------
+
+2022-04-11 00:47:49
+
+JesseFTW: 
+
+Add building and roof levels
+
+--------------
+
+2022-04-11 00:47:49
+
+JesseFTW: 
+
+Add building and roof levels
+
+--------------
+
+2022-04-10 23:00:22
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-10 23:00:22
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-10 23:00:22
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-10 23:00:22
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-10 23:00:22
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-10 23:00:22
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-10 23:00:22
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-10 23:00:22
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-10 22:56:32
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-10 22:56:32
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-10 22:56:32
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-10 22:56:32
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-10 22:56:32
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-10 22:56:32
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-10 22:56:32
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-10 22:56:32
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-10 22:56:32
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-10 22:56:32
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-10 22:56:32
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-10 22:40:55
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-10 22:40:55
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-10 22:40:55
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-10 22:40:55
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-10 22:40:55
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-10 22:40:55
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-10 22:40:55
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-10 22:40:55
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-10 22:35:55
+
+aweech: 
+
+Adding a stop sign. Based on the paint it looks like it's been changed to a 4-way recently
+
+--------------
+
+2022-04-10 22:35:55
+
+aweech: 
+
+Adding a stop sign. Based on the paint it looks like it's been changed to a 4-way recently
+
+--------------
+
+2022-04-10 22:35:55
+
+aweech: 
+
+Adding a stop sign. Based on the paint it looks like it's been changed to a 4-way recently
+
+--------------
+
+2022-04-10 22:35:55
+
+aweech: 
+
+Adding a stop sign. Based on the paint it looks like it's been changed to a 4-way recently
+
+--------------
+
+2022-04-10 22:35:55
+
+aweech: 
+
+Adding a stop sign. Based on the paint it looks like it's been changed to a 4-way recently
+
+--------------
+
+2022-04-10 20:44:55
+
+florisje: 
+
+Construction at the park is almost done! I was able to walk and log most of the roads. Will check later how the sports fields are situated because it looks like there's another baseball field.
+
+--------------
+
+2022-04-10 20:44:55
+
+florisje: 
+
+Construction at the park is almost done! I was able to walk and log most of the roads. Will check later how the sports fields are situated because it looks like there's another baseball field.
+
+--------------
+
+2022-04-10 19:45:59
+
+JesseFTW: 
+
+add parking area
+
+--------------
+
+2022-04-10 19:44:35
+
+Yury Yatsynovich: 
+
+Edit Restaurant.
+
+--------------
+
+2022-04-10 15:41:01
+
+arc34: 
+
+Redo Lawton Playground boundary as multipolygon of fence ways
+
+--------------
+
+2022-04-10 15:32:09
+
+Alexey Lukin: 
+
+Added details to Belmont High School
+
+--------------
+
+2022-04-10 15:32:09
+
+Alexey Lukin: 
+
+Added details to Belmont High School
+
+--------------
+
+2022-04-10 15:29:17
+
+morganwahl: 
+
+Add path surfaces
+
+--------------
+
+2022-04-10 15:28:55
+
+morganwahl: 
+
+Add building types
+
+--------------
+
+2022-04-10 07:22:51
+
+arc34: 
+
+Add murals in Allston
+
+--------------
+
+2022-04-10 07:22:51
+
+arc34: 
+
+Add murals in Allston
+
+--------------
+
+2022-04-10 07:22:51
+
+arc34: 
+
+Add murals in Allston
+
+--------------
+
+2022-04-10 07:22:51
+
+arc34: 
+
+Add murals in Allston
+
+--------------
+
+2022-04-10 07:22:51
+
+arc34: 
+
+Add murals in Allston
+
+--------------
+
+2022-04-10 07:22:51
+
+arc34: 
+
+Add murals in Allston
+
+--------------
+
+2022-04-10 07:22:51
+
+arc34: 
+
+Add murals in Allston
+
+--------------
+
+2022-04-10 07:22:51
+
+arc34: 
+
+Add murals in Allston
+
+--------------
+
+2022-04-10 05:15:09
+
+wambag: 
+
+Chelsea River: eliminating relation that overlaps closed way for the river area, and adjusting closed way to cover tidal flats to better represent shoreline
+
+--------------
+
+2022-04-10 05:15:09
+
+wambag: 
+
+Chelsea River: eliminating relation that overlaps closed way for the river area, and adjusting closed way to cover tidal flats to better represent shoreline
+
+--------------
+
+2022-04-10 05:11:29
+
+arc34: 
+
+Merged node/area duplicates and connected path near Waban Hill
+
+--------------
+
+2022-04-10 05:11:29
+
+arc34: 
+
+Merged node/area duplicates and connected path near Waban Hill
+
+--------------
+
+2022-04-10 05:02:48
+
+wambag: 
+
+Chelsea River: eliminating relation that overlaps closed way for the river area, and adjusting closed way to cover tidal flats to better represent shoreline
+
+--------------
+
+2022-04-10 05:02:48
+
+wambag: 
+
+Chelsea River: eliminating relation that overlaps closed way for the river area, and adjusting closed way to cover tidal flats to better represent shoreline
+
+--------------
+
+2022-04-10 05:00:40
+
+wambag: 
+
+Chelsea River: eliminating relation that overlaps closed way for the river area, and adjusting closed way to cover tidal flats to better represent shoreline
+
+--------------
+
+2022-04-10 05:00:40
+
+wambag: 
+
+Chelsea River: eliminating relation that overlaps closed way for the river area, and adjusting closed way to cover tidal flats to better represent shoreline
+
+--------------
+
+2022-04-10 04:58:18
+
+wambag: 
+
+Chelsea River: eliminating relation that overlaps closed way for the river area, and adjusting closed way to cover tidal flats to better represent shoreline
+
+--------------
+
+2022-04-10 04:58:18
+
+wambag: 
+
+Chelsea River: eliminating relation that overlaps closed way for the river area, and adjusting closed way to cover tidal flats to better represent shoreline
+
+--------------
+
+2022-04-10 04:40:33
+
+wambag: 
+
+Chelsea River: eliminating relation that overlaps closed way for the river area, and adjusting closed way to cover tidal flats to better represent shoreline
+
+--------------
+
+2022-04-10 04:40:33
+
+wambag: 
+
+Chelsea River: eliminating relation that overlaps closed way for the river area, and adjusting closed way to cover tidal flats to better represent shoreline
+
+--------------
+
+2022-04-10 04:20:45
+
+wambag: 
+
+Chelsea River: eliminating relation that overlaps closed way for the river area, and adjusting closed way to cover tidal flats to better represent shoreline
+
+--------------
+
+2022-04-10 04:20:45
+
+wambag: 
+
+Chelsea River: eliminating relation that overlaps closed way for the river area, and adjusting closed way to cover tidal flats to better represent shoreline
+
+--------------
+
+2022-04-10 04:16:56
+
+wambag: 
+
+Chelsea River: eliminating relation that overlaps closed way for the river area, and adjusting closed way to cover tidal flats to better represent shoreline
+
+--------------
+
+2022-04-10 04:16:56
+
+wambag: 
+
+Chelsea River: eliminating relation that overlaps closed way for the river area, and adjusting closed way to cover tidal flats to better represent shoreline
+
+--------------
+
+2022-04-10 03:38:19
+
+arc34: 
+
+Fix small issues
+
+--------------
+
+2022-04-10 03:38:19
+
+arc34: 
+
+Fix small issues
+
+--------------
+
+2022-04-10 03:38:19
+
+arc34: 
+
+Fix small issues
+
+--------------
+
+2022-04-10 02:39:07
+
+arc34: 
+
+Allston details
+
+--------------
+
+2022-04-10 02:39:07
+
+arc34: 
+
+Allston details
+
+--------------
+
+2022-04-10 02:39:07
+
+arc34: 
+
+Allston details
+
+--------------
+
+2022-04-10 00:44:36
+
+arc34: 
+
+Comm Ave Packard's Corner to Harvard Ave
+
+--------------
+
+2022-04-10 00:44:36
+
+arc34: 
+
+Comm Ave Packard's Corner to Harvard Ave
+
+--------------
+
+2022-04-10 00:44:36
+
+arc34: 
+
+Comm Ave Packard's Corner to Harvard Ave
+
+--------------
+
+2022-04-09 22:57:35
+
+arc34: 
+
+Lawton Playground
+
+--------------
+
+2022-04-09 22:57:35
+
+arc34: 
+
+Lawton Playground
+
+--------------
+
+2022-04-09 22:57:35
+
+arc34: 
+
+Lawton Playground
+
+--------------
+
+2022-04-09 20:56:03
+
+JesseFTW: 
+
+Add opening hours
+
+--------------
+
+2022-04-09 20:56:01
+
+JesseFTW: 
+
+Add type of barrier for railway crossing
+
+--------------
+
+2022-04-09 20:56:01
+
+JesseFTW: 
+
+Add type of barrier for railway crossing
+
+--------------
+
+2022-04-09 20:56:01
+
+JesseFTW: 
+
+Add type of barrier for railway crossing
+
+--------------
+
+2022-04-09 20:56:01
+
+JesseFTW: 
+
+Add type of barrier for railway crossing
+
+--------------
+
+2022-04-09 20:56:01
+
+JesseFTW: 
+
+Add whether there are cycleways
+
+--------------
+
+2022-04-09 20:56:01
+
+JesseFTW: 
+
+Add type of barrier for railway crossing
+
+--------------
+
+2022-04-09 20:55:59
+
+JesseFTW: 
+
+Add roof shapes
+
+--------------
+
+2022-04-09 20:55:55
+
+JesseFTW: 
+
+Add building types
+
+--------------
+
+2022-04-09 20:55:55
+
+JesseFTW: 
+
+Add building types
+
+--------------
+
+2022-04-09 20:55:54
+
+JesseFTW: 
+
+Add path surfaces
+
+--------------
+
+2022-04-09 20:55:54
+
+JesseFTW: 
+
+Add path surfaces
+
+--------------
+
+2022-04-09 20:55:53
+
+JesseFTW: 
+
+Add tactile pavings on bus stops
+
+--------------
+
+2022-04-09 20:55:52
+
+JesseFTW: 
+
+Add whether a bus stop has a bench
+
+--------------
+
+2022-04-09 20:55:51
+
+JesseFTW: 
+
+Add whether traffic signals have tactile indication that it's safe to cross
+
+--------------
+
+2022-04-09 20:55:51
+
+JesseFTW: 
+
+Add whether traffic signals have tactile indication that it's safe to cross
+
+--------------
+
+2022-04-09 20:55:50
+
+JesseFTW: 
+
+Add whether pedestrian crossing has an island
+
+--------------
+
+2022-04-09 20:55:50
+
+JesseFTW: 
+
+Add whether pedestrian crossing has an island
+
+--------------
+
+2022-04-09 20:55:50
+
+JesseFTW: 
+
+Add whether pedestrian crossing has an island
+
+--------------
+
+2022-04-09 20:40:26
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 20:40:26
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 20:40:26
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 20:40:26
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 20:40:26
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 20:40:26
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 20:40:26
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 20:40:26
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 20:40:26
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 20:11:40
+
+wambag: 
+
+better integrate Mill Creek shoreline features
+
+--------------
+
+2022-04-09 20:11:40
+
+wambag: 
+
+better integrate Mill Creek shoreline features
+
+--------------
+
+2022-04-09 19:00:49
+
+wambag: 
+
+Chelsea River: eliminating relation that overlaps closed way for the river area, and adjusting closed way to cover tidal flats to better represent shoreline
+
+--------------
+
+2022-04-09 19:00:49
+
+wambag: 
+
+Chelsea River: eliminating relation that overlaps closed way for the river area, and adjusting closed way to cover tidal flats to better represent shoreline
+
+--------------
+
+2022-04-09 19:00:49
+
+wambag: 
+
+Chelsea River: eliminating relation that overlaps closed way for the river area, and adjusting closed way to cover tidal flats to better represent shoreline
+
+--------------
+
+2022-04-09 19:00:49
+
+wambag: 
+
+Chelsea River: eliminating relation that overlaps closed way for the river area, and adjusting closed way to cover tidal flats to better represent shoreline
+
+--------------
+
+2022-04-09 19:00:49
+
+wambag: 
+
+Chelsea River: eliminating relation that overlaps closed way for the river area, and adjusting closed way to cover tidal flats to better represent shoreline
+
+--------------
+
+2022-04-09 19:00:49
+
+wambag: 
+
+Chelsea River: eliminating relation that overlaps closed way for the river area, and adjusting closed way to cover tidal flats to better represent shoreline
+
+--------------
+
+2022-04-09 19:00:49
+
+wambag: 
+
+Chelsea River: eliminating relation that overlaps closed way for the river area, and adjusting closed way to cover tidal flats to better represent shoreline
+
+--------------
+
+2022-04-09 19:00:49
+
+wambag: 
+
+Chelsea River: eliminating relation that overlaps closed way for the river area, and adjusting closed way to cover tidal flats to better represent shoreline
+
+--------------
+
+2022-04-09 18:14:35
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 18:14:35
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 18:14:35
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 18:14:35
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 18:14:35
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 18:14:35
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 18:14:35
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 18:14:35
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 18:14:35
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 18:14:35
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 18:14:35
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 18:14:35
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 18:14:35
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 18:14:35
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 18:14:35
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 18:14:35
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 18:14:35
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 18:14:35
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 18:14:35
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 18:14:35
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 18:14:35
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 17:45:56
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 17:45:56
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 17:45:56
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 17:45:56
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 17:45:56
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 17:45:56
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 17:45:56
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 17:45:56
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 17:45:56
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 17:45:56
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 17:45:56
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 17:45:56
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 17:45:56
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 17:45:56
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 17:45:56
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 17:43:34
+
+JesseFTW: 
+
+Add whether pedestrian crossing has an island
+
+--------------
+
+2022-04-09 17:43:31
+
+JesseFTW: 
+
+Add crossing type
+
+--------------
+
+2022-04-09 17:43:31
+
+JesseFTW: 
+
+Add crossing type
+
+--------------
+
+2022-04-09 17:43:31
+
+JesseFTW: 
+
+Add crossing type
+
+--------------
+
+2022-04-09 17:43:31
+
+JesseFTW: 
+
+Add crossing type
+
+--------------
+
+2022-04-09 17:43:30
+
+JesseFTW: 
+
+Add road surface info
+
+--------------
+
+2022-04-09 17:43:25
+
+JesseFTW: 
+
+Add path surfaces
+
+--------------
+
+2022-04-09 17:43:20
+
+JesseFTW: 
+
+Add building types
+
+--------------
+
+2022-04-09 17:43:20
+
+JesseFTW: 
+
+Add building types
+
+--------------
+
+2022-04-09 17:34:15
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 17:34:15
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 17:34:15
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 17:34:15
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 17:34:15
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 17:34:15
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 17:34:15
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 17:34:15
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 17:34:15
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 17:34:15
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 17:34:15
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 17:34:15
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 17:34:15
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 17:34:15
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 17:34:15
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 17:34:15
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 17:34:15
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 17:34:15
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 17:34:15
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 17:34:15
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 17:34:15
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 17:34:15
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 17:34:15
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 17:34:15
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 17:34:15
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 17:34:15
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 17:34:15
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 17:34:15
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 17:34:15
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 17:34:15
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 17:34:15
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 17:34:15
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 17:34:15
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 17:34:15
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 17:34:15
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 17:34:15
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 17:34:15
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 17:34:15
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 17:34:15
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 17:18:32
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 17:15:38
+
+aweech: 
+
+Adding some stop signs
+
+--------------
+
+2022-04-09 17:14:17
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 17:14:17
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 17:14:17
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 17:14:17
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 17:14:17
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 17:14:17
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 17:14:17
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 17:14:17
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 17:14:17
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 17:14:17
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 17:14:17
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 17:14:17
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 17:14:17
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 17:14:17
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 17:14:17
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 17:14:17
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 03:54:54
+
+MelancholicSlav: 
+
+Road alignment
+
+--------------
+
+2022-04-09 03:54:54
+
+MelancholicSlav: 
+
+Road alignment
+
+--------------
+
+2022-04-09 03:54:54
+
+MelancholicSlav: 
+
+Road alignment
+
+--------------
+
+2022-04-09 03:54:54
+
+MelancholicSlav: 
+
+Road alignment
+
+--------------
+
+2022-04-09 03:54:54
+
+MelancholicSlav: 
+
+Road alignment
+
+--------------
+
+2022-04-09 03:54:54
+
+MelancholicSlav: 
+
+Road alignment
+
+--------------
+
+2022-04-09 03:54:54
+
+MelancholicSlav: 
+
+Road alignment
+
+--------------
+
+2022-04-09 03:54:54
+
+MelancholicSlav: 
+
+Road alignment
+
+--------------
+
+2022-04-09 03:09:22
+
+Alexey Lukin: 
+
+Added details to Belmont High School
+
+--------------
+
+2022-04-09 03:09:22
+
+Alexey Lukin: 
+
+Added details to Belmont High School
+
+--------------
+
+2022-04-09 03:03:16
+
+Alexey Lukin: 
+
+Added details to Belmont High School
+
+--------------
+
+2022-04-09 03:03:16
+
+Alexey Lukin: 
+
+Added details to Belmont High School
+
+--------------
+
+2022-04-09 00:53:59
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 00:53:59
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 00:53:59
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 00:53:59
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 00:53:59
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 00:53:59
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 00:53:59
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 00:53:59
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 00:53:59
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 00:53:59
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 00:53:59
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 00:53:59
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 00:53:59
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 00:53:59
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 00:53:59
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 00:53:59
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 00:53:59
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 00:53:59
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 00:53:59
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 00:53:59
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 00:53:59
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 00:53:59
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 00:53:59
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 00:53:59
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 00:43:47
+
+aweech: 
+
+Simplified a way and removed a crossing that is a bridge
+
+--------------
+
+2022-04-09 00:43:47
+
+aweech: 
+
+Simplified a way and removed a crossing that is a bridge
+
+--------------
+
+2022-04-09 00:43:47
+
+aweech: 
+
+Simplified a way and removed a crossing that is a bridge
+
+--------------
+
+2022-04-09 00:43:47
+
+aweech: 
+
+Simplified a way and removed a crossing that is a bridge
+
+--------------
+
+2022-04-09 00:43:47
+
+aweech: 
+
+Simplified a way and removed a crossing that is a bridge
+
+--------------
+
+2022-04-09 00:43:47
+
+aweech: 
+
+Simplified a way and removed a crossing that is a bridge
+
+--------------
+
+2022-04-09 00:33:59
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 00:33:59
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 00:33:59
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 00:33:59
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 00:33:59
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 00:33:59
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 00:33:59
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 00:33:59
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 00:33:59
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 00:33:59
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 00:33:59
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 00:33:59
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 00:33:59
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 00:33:59
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 00:33:59
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 00:33:59
+
+aweech: 
+
+Adding surfaces, crossings, and stop signs
+
+--------------
+
+2022-04-09 00:15:41
+
+aweech: 
+
+Adding missing bicycle details on part of a Washington Street
+
+--------------
+
+2022-04-09 00:15:41
+
+aweech: 
+
+Adding missing bicycle details on part of a Washington Street
+
+--------------
+
+2022-04-09 00:15:41
+
+aweech: 
+
+Adding missing bicycle details on part of a Washington Street
+
+--------------
+
+2022-04-09 00:15:41
+
+aweech: 
+
+Adding missing bicycle details on part of a Washington Street
+
+--------------
+
+2022-04-08 22:33:09
+
+MelancholicSlav: 
+
+Fixed dragged node
+
+--------------
+
+2022-04-08 22:33:09
+
+MelancholicSlav: 
+
+Fixed dragged node
+
+--------------
+
+2022-04-08 13:38:29
+
+pvt: 
+
+Add bus stop shelter
+
+--------------
+
+2022-04-08 09:11:00
+
+someart13: 
+
+Mapped the roads. Based on Bing Maps Aerial. #mbx_usa_editing
+
+--------------
+
+2022-04-08 06:25:14
+
+kmarkish_lyft: 
+
+changed direction of the oneway road according to the road geometry.
+
+--------------
+
+2022-04-08 03:05:04
+
+Alexey Lukin: 
+
+Added details to Belmont High School
+
+--------------
+
+2022-04-08 03:05:04
+
+Alexey Lukin: 
+
+Added details to Belmont High School
+
+--------------
+
+2022-04-08 03:05:04
+
+Alexey Lukin: 
+
+Added details to Belmont High School
+
+--------------
+
+2022-04-08 03:05:04
+
+Alexey Lukin: 
+
+Added details to Belmont High School
+
+--------------
+
+2022-04-07 20:53:42
+
+VLD191: 
+
+Added and fixed some features. #AtlasChecks #EdgeCrossingEdgeCheck
+
+--------------
+
+2022-04-07 20:34:11
+
+Delvin4519: 
+
+new tesla supercharging station
+
+--------------
+
+2022-04-07 20:20:41
+
+VLD191: 
+
+Added nodes to intersection #AtlasChecks #EdgeCrossingEdgeCheck
+
+--------------
+
+2022-04-07 19:54:21
+
+mbanic617: 
+
+Added building information for new construction at 120 Brookside Ave,
+
+--------------
+
+2022-04-07 19:02:06
+
+MelancholicSlav: 
+
+Watertown RMV Service Center
+
+--------------
+
+2022-04-07 19:02:06
+
+MelancholicSlav: 
+
+Watertown RMV Service Center
+
+--------------
+
+2022-04-07 18:00:37
+
+wambag: 
+
+reconfiguring Chelsea River: consolidating overlapped relation and closed way upstream, rectifying coastline/river overlap near mouth, adjusting marshes and tidal flats
+
+--------------
+
+2022-04-07 18:00:37
+
+wambag: 
+
+reconfiguring Chelsea River: consolidating overlapped relation and closed way upstream, rectifying coastline/river overlap near mouth, adjusting marshes and tidal flats
+
+--------------
+
+2022-04-07 18:00:37
+
+wambag: 
+
+reconfiguring Chelsea River: consolidating overlapped relation and closed way upstream, rectifying coastline/river overlap near mouth, adjusting marshes and tidal flats
+
+--------------
+
+2022-04-07 17:33:06
+
+wambag: 
+
+named Lechmere Canal
+
+--------------
+
+2022-04-07 17:33:06
+
+wambag: 
+
+named Lechmere Canal
+
+--------------
+
+2022-04-07 13:48:42
+
+wambag: 
+
+O'Brien Hwy and associated features
+
+--------------
+
+2022-04-07 13:48:42
+
+wambag: 
+
+O'Brien Hwy and associated features
+
+--------------
+
+2022-04-07 13:48:42
+
+wambag: 
+
+O'Brien Hwy and associated features
+
+--------------
+
+2022-04-07 13:48:42
+
+wambag: 
+
+O'Brien Hwy and associated features
+
+--------------
+
+2022-04-07 10:31:24
+
+keckln: 
+
+Added a marker for the plaque honoring Bell's invention.
+
+--------------
+
+2022-04-07 05:58:56
+
+arc34: 
+
+Harvard Ave businesses fix
+
+--------------
+
+2022-04-07 05:58:56
+
+arc34: 
+
+Harvard Ave businesses fix
+
+--------------
+
+2022-04-07 05:52:11
+
+arc34: 
+
+Harvard Ave businesses
+
+--------------
+
+2022-04-07 05:52:11
+
+arc34: 
+
+Harvard Ave businesses
+
+--------------
+
+2022-04-07 05:52:11
+
+arc34: 
+
+Harvard Ave businesses
+
+--------------
+
+2022-04-07 05:52:11
+
+arc34: 
+
+Harvard Ave businesses
+
+--------------
+
+2022-04-07 05:52:11
+
+arc34: 
+
+Harvard Ave businesses
+
+--------------
+
+2022-04-07 05:52:11
+
+arc34: 
+
+Harvard Ave businesses
+
+--------------
+
+2022-04-07 05:52:11
+
+arc34: 
+
+Harvard Ave businesses
+
+--------------
+
+2022-04-07 05:52:11
+
+arc34: 
+
+Harvard Ave businesses
+
+--------------
+
+2022-04-07 05:52:11
+
+arc34: 
+
+Harvard Ave businesses
+
+--------------
+
+2022-04-07 05:52:11
+
+arc34: 
+
+Harvard Ave businesses
+
+--------------
+
+2022-04-06 22:28:35
+
+VLD191: 
+
+Added multiple features #mapswithai
+
+--------------
+
+2022-04-06 22:15:46
+
+VLD191: 
+
+Added feature multiple #mapswithai
+
+--------------
+
+2022-04-06 22:15:46
+
+VLD191: 
+
+Added feature multiple #mapswithai
+
+--------------
+
+2022-04-06 22:02:28
+
+VLD191: 
+
+Fixed more validations. #mapswithai
+
+--------------
+
+2022-04-06 20:47:14
+
+VLD191: 
+
+Fixed lots of things across Boston, incomplete.
+
+--------------
+
+2022-04-06 20:47:14
+
+VLD191: 
+
+Fixed lots of things across Boston, incomplete.
+
+--------------
+
+2022-04-06 20:47:14
+
+VLD191: 
+
+Fixed lots of things across Boston, incomplete.
+
+--------------
+
+2022-04-06 20:47:14
+
+VLD191: 
+
+Fixed lots of things across Boston, incomplete.
+
+--------------
+
+2022-04-06 20:47:14
+
+VLD191: 
+
+Fixed lots of things across Boston, incomplete.
+
+--------------
+
+2022-04-06 19:54:20
+
+MLe92: 
+
+Area is gated
+
+--------------
+
+2022-04-06 19:45:45
+
+MLe92: 
+
+No pedestrian signs
+
+--------------
+
+2022-04-06 19:45:45
+
+MLe92: 
+
+No pedestrian signs
+
+--------------
+
+2022-04-06 16:47:55
+
+LinusA: 
+
+reclass
+
+--------------
+
+2022-04-06 16:47:55
+
+LinusA: 
+
+reclass
+
+--------------
+
+2022-04-06 16:47:55
+
+LinusA: 
+
+reclass
+
+--------------
+
+2022-04-06 16:47:55
+
+LinusA: 
+
+reclass
+
+--------------
+
+2022-04-06 16:47:55
+
+LinusA: 
+
+reclass
+
+--------------
+
+2022-04-06 16:47:55
+
+LinusA: 
+
+reclass
+
+--------------
+
+2022-04-06 16:47:55
+
+LinusA: 
+
+reclass
+
+--------------
+
+2022-04-06 16:47:55
+
+LinusA: 
+
+reclass
+
+--------------
+
+2022-04-06 15:53:58
+
+LinusA: 
+
+Back Bay Fens park designation
+
+--------------
+
+2022-04-06 15:53:58
+
+LinusA: 
+
+Back Bay Fens park designation
+
+--------------
+
+2022-04-06 15:53:58
+
+LinusA: 
+
+Back Bay Fens park designation
+
+--------------
+
+2022-04-06 15:53:58
+
+LinusA: 
+
+Back Bay Fens park designation
+
+--------------
+
+2022-04-06 13:56:52
+
+danielkononovWORKNEST: 
+
+POID-171226
+
+--------------
+
+2022-04-06 13:56:52
+
+danielkononovWORKNEST: 
+
+POID-171226
+
+--------------
+
+2022-04-06 05:53:05
+
+arc34: 
+
+All ice rinks in Massachusetts - Part 9/9 Boston
+
+--------------
+
+2022-04-06 05:53:05
+
+arc34: 
+
+All ice rinks in Massachusetts - Part 9/9 Boston
+
+--------------
+
+2022-04-06 05:53:05
+
+arc34: 
+
+All ice rinks in Massachusetts - Part 9/9 Boston
+
+--------------
+
+2022-04-06 05:53:05
+
+arc34: 
+
+All ice rinks in Massachusetts - Part 9/9 Boston
+
+--------------
+
+2022-04-06 05:53:05
+
+arc34: 
+
+All ice rinks in Massachusetts - Part 9/9 Boston
+
+--------------
+
+2022-04-06 05:53:05
+
+arc34: 
+
+All ice rinks in Massachusetts - Part 9/9 Boston
+
+--------------
+
+2022-04-06 05:53:05
+
+arc34: 
+
+All ice rinks in Massachusetts - Part 9/9 Boston
+
+--------------
+
+2022-04-06 05:53:05
+
+arc34: 
+
+All ice rinks in Massachusetts - Part 9/9 Boston
+
+--------------
+
+2022-04-06 05:53:05
+
+arc34: 
+
+All ice rinks in Massachusetts - Part 9/9 Boston
+
+--------------
+
+2022-04-06 05:53:05
+
+arc34: 
+
+All ice rinks in Massachusetts - Part 9/9 Boston
+
+--------------
+
+2022-04-06 05:53:05
+
+arc34: 
+
+All ice rinks in Massachusetts - Part 9/9 Boston
+
+--------------
+
+2022-04-06 05:53:05
+
+arc34: 
+
+All ice rinks in Massachusetts - Part 9/9 Boston
+
+--------------
+
+2022-04-06 05:53:05
+
+arc34: 
+
+All ice rinks in Massachusetts - Part 9/9 Boston
+
+--------------
+
+2022-04-06 05:53:05
+
+arc34: 
+
+All ice rinks in Massachusetts - Part 9/9 Boston
+
+--------------
+
+2022-04-06 05:53:05
+
+arc34: 
+
+All ice rinks in Massachusetts - Part 9/9 Boston
+
+--------------
+
+2022-04-06 05:53:05
+
+arc34: 
+
+All ice rinks in Massachusetts - Part 9/9 Boston
+
+--------------
+
+2022-04-06 05:53:05
+
+arc34: 
+
+All ice rinks in Massachusetts - Part 9/9 Boston
+
+--------------
+
+2022-04-06 05:53:05
+
+arc34: 
+
+All ice rinks in Massachusetts - Part 9/9 Boston
+
+--------------
+
+2022-04-06 05:53:05
+
+arc34: 
+
+All ice rinks in Massachusetts - Part 9/9 Boston
+
+--------------
+
+2022-04-06 05:53:05
+
+arc34: 
+
+All ice rinks in Massachusetts - Part 9/9 Boston
+
+--------------
+
+2022-04-06 03:58:37
+
+arc34: 
+
+Allston edits
+
+--------------
+
+2022-04-06 03:58:37
+
+arc34: 
+
+Allston edits
+
+--------------
+

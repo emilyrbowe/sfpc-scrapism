@@ -1,0 +1,7 @@
+sort -R ig-hack.txt | head -n 5 > hack_instructions_1.txt
+
+Verify your identity
+If you received an email from security@mail.instagram.com letting you know that your email address was changed, you may be able to undo this change by selecting revert this change in that message. If additional information was also changed (example: your password), and you're unable to change back your email address, request a login link or security code from Instagram
+Note: Instagram doesn’t use facial recognition, and we don't use it in video selfies. We use video selfies to ensure you are a real person and may confirm with human review that you are authorized to access your account.
+If you request support for an account with photos of you, you'll be asked to take a video selfie of you turning your head in different directions to help us check that you’re a real person and confirm your identity.
+Confirm your phone number and email address in account settings are correct.
